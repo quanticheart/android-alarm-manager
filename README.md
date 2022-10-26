@@ -4,7 +4,8 @@ A simple app to see what all scenarios should be considered when using Alarm man
 
 This is a sample app for the following blog post
 
-[link](https://medium.com/android-news/using-alarmmanager-like-a-pro-20f89f4ca720)
+[link](https://medium.com/android-news/using-alarmmanager-like-a-pro-20f89f4ca720) - 
+[original project](https://github.com/nikit19/AlarmManager)
 
 other:
 
